@@ -2,3 +2,4 @@ jupyter-server-proxy
 matplotlib
 vega-datasets
 xeus-python
+jupyterlab>=2.0
