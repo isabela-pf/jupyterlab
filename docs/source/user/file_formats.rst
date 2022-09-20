@@ -321,3 +321,4 @@ JupyterLab:
 .. image:: ../images/file-formats-nteract-vdom.png
    :align: center
    :class: jp-screenshot
+   :alt:
