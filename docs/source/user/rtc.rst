@@ -28,6 +28,7 @@ for what is essential, the document's content.
 .. image:: images/rtc_shared_cursors.png
    :align: center
    :class: jp-screenshot
+   :alt:
 
 A nice improvement from Real Time Collaboration (RTC) is that you don't need to worry
 about saving a document anymore. It is automatically taken care of: each change made by
